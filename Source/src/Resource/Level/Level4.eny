@@ -1,0 +1,9 @@
+// Level 4: Basement
+//Door to Level 5 Morgue
+Object~15~0~None~None~224~256~True~False~0~0~0~NoText
+//Door to Level 6 Furnace
+Object~17~0~None~None~320~192~True~False~0~0~0~NoText
+//Door to Level 2 whatever
+Object~26~0~None~None~416~256~True~False~0~0~0~NoText
+//Zombie Spawner
+Object~6~0~None~None~320~320~False~False~0~0~0~NoText

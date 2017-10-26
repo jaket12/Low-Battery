@@ -1,0 +1,9 @@
+//Level 7 Electrical
+//Door to Level 6 Furnace
+Object~22~0~None~None~384~384~True~False~0~0~0~NoText
+//Generator
+Object~23~0~None~None~256~128~True~False~0~0~0~NoText
+//Simple door
+Object~24~0~None~None~224~224~True~False~0~0~0~NoText
+//Zombie Spawner
+Object~6~0~None~None~224~128~False~False~0~0~0~NoText

@@ -1,0 +1,7 @@
+Music~28.0
+Sound~28.0
+FullScreen~false
+VSync~false
+ShowFPS~false
+DrawRoomTiles~false
+DrawAllHitboxes~false

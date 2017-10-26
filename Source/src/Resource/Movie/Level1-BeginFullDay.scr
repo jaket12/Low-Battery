@@ -1,0 +1,5 @@
+Chat File~Level1-BeginFullDay
+Set New Level
+Set Level~2
+Set Custom Player Spawn~320~160~-1~Level2-Start
+Swap State~5

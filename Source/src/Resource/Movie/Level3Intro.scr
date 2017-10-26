@@ -1,0 +1,9 @@
+Delete All~Text
+Disable Input~True
+PlayerCharacter~IsVisible~True
+Enable Battery Timer
+Enable Sundown Timer
+Music~Loop~1
+Music~Set Level Music~1
+Disable Input~False
+Resume

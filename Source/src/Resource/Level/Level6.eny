@@ -1,0 +1,11 @@
+//Level 6 Furnace
+//Door to Level 4 Basement
+Object~18~0~None~None~544~448~True~False~0~0~0~NoText
+//Locked Tool Kit
+Object~19~0~None~None~416~320~True~False~0~0~0~NoText
+//Furnace
+Object~20~0~None~None~64~176~True~False~0~0~0~NoText
+//Door to Level 7 Electrical
+Object~21~0~None~None~448~96~True~False~0~0~0~NoText
+//Zombie Spawner
+Object~6~0~None~None~96~192~False~False~0~0~0~NoText

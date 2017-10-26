@@ -1,0 +1,13 @@
+//Level 2
+//Door to level 1 Hospital Room
+Object~8~0~None~None~320~128~True~False~0~0~0~NoText
+//Door to level 3 Janitor Closet
+Object~9~0~None~None~192~448~True~False~0~0~0~NoText
+//Door to level 4 Basement
+Object~11~0~None~None~192~128~True~False~0~0~0~NoText
+//Dead Guy
+Object~12~0~None~None~864~416~True~False~0~0~0~NoText
+//Desk Drawer
+Object~13~0~None~None~736~320~True~False~0~0~0~NoText
+//Zombie Spawner
+Object~6~0~None~None~832~384~False~False~0~0~0~NoText

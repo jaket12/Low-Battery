@@ -1,0 +1,24 @@
+//Level 1: Hospital Home Base
+//Enemies
+//(Entity Type)~(Switch case ID)~(AI Type)~(Horizontal Face)~(Vertical Face)~(Spawn Pixel X)~(Spawn Pixel Y)~(Respawnable)~(Inertia X)~(Inertia Y)~(Custom String Text)
+//Enemy~1~0~Right~None~160~1650~True~0~0~NoText
+//Item
+//(Entity Type)~(Switch case ID)~(Location X)~(Location Y)~(Respawnable)~(Destroy Timer)
+//Item~1~512~1700~True~10000
+//Object
+//(Entity Type)~(Switch case ID)~(AI Type)~(Horizontal Face)~(Vertical Face)~(Spawn Pixel X)~(Spawn Pixel Y)~(Respawnable)~(Respawned)~(Object Array Id)~(Inertia X)~(Inertia Y)~(Custom String Text)
+//Object~1~0~Left~None~128~1800~True~0~0~NoText
+//Bullet
+//We don't spawn these...
+//
+//
+//Simple CutScene Object
+//(Entity Type)~(Switch case ID)~(AI Type)~(Horizontal Face)~(Vertical Face)~(Spawn Pixel X)~(Spawn Pixel Y)~(SolidWall)~(DeleteOnChatClose)~(array id)~(Sprite Row)~(Sprite Column)~(CutSceneType|CutScene Name)
+//Door to leave room Level1Door
+Object~4~0~None~None~416~192~True~False~0~0~0~NoText
+//Bed to rest Level1Bed
+Object~5~0~None~None~256~288~True~False~0~0~0~NoText
+//Monitor
+Object~7~0~None~None~224~192~True~False~0~0~18~NoText
+//Daughter
+Object~2~0~None~None~256~224~True~False~0~0~16~ChatWindow@Level1-DaughterSleeping

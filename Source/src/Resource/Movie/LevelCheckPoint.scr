@@ -1,0 +1,27 @@
+Load~Text~READY!~0~200~0
+Disable Input~True
+Music~Loop~Level Music
+Text~0~Vanish
+Text~0~Center
+wait~1000
+Text~0~Appear
+wait~200
+Text~0~Vanish
+wait~200
+Text~0~Appear
+wait~200
+Text~0~Vanish
+wait~200
+Text~0~Appear
+wait~200
+Text~0~Vanish
+wait~200
+Text~0~Appear
+wait~200
+Text~0~Vanish
+wait~200
+Text~0~Appear
+wait~200
+Text~0~Vanish
+wait~200
+Resume

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.0.2" orientation="orthogonal" renderorder="right-down" width="22" height="17" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" source="MetaTile.tsx"/>
+ <tileset firstgid="49" source="Tileset1.tsx"/>
+ <layer name="Tile Layer 1" width="22" height="17">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC3NhYGBwGcXDAnsAsSeR2IsEcwuBuAiIJwBxPxDHomFLKA1SU0CiuSD1dkDcDsQdUDY6LqTAXGw4lUJzA7G415ZK7k2Fmh9IpXAowhH/yJjUeIthwEwDuHAcCeaOYuphADf46rfYBQAA
+  </data>
+ </layer>
+ <layer name="Tile Layer 2" width="22" height="17">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+NlYGDgpQHmB2JWKmMBqLnsDNQDHKPmDmtzhWhkLqlg1Nyhby4blTHMXD4aYADWA/Ir2AUAAA==
+  </data>
+ </layer>
+</map>

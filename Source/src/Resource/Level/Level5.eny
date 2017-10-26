@@ -1,0 +1,9 @@
+//Level 5 Morgue
+//Door to Level 4 Basement
+Object~16~0~None~None~416~384~True~False~0~0~0~NoText
+//Simple door
+Object~24~0~None~None~224~224~True~False~0~0~0~NoText
+//Frozen guy
+Object~25~0~None~None~192~160~True~False~0~0~0~NoText
+//Zombie Spawner
+Object~6~0~None~None~224~160~False~False~0~0~0~NoText

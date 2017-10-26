@@ -1,0 +1,12 @@
+Load~Text~Error loading movie!~0~100~255~255~255~255~0
+Load~Text~File not found~0~200~255~0~0~255~1
+Load~Text~Returning to Main Menu~0~300~255~255~255~0~2
+Text~0~Center
+Text~1~Center
+Text~2~Center
+Text~0~Appear
+Text~1~Appear
+Wait~2000
+Text~2~Appear
+Wait~2000
+Swap State~2

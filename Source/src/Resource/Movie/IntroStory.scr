@@ -1,0 +1,42 @@
+//(LocationX)~(LocationY)~(Red)~(Green)~(Blue)~(Alpha)~(TextID)
+Full Game Reset
+Set Current Level~1
+Set Level Setup State~0
+Load~Text~We went on vacation for a few weeks.~0~48~255~255~255~0~0
+Load~Text~Now, we may be here forever.~0~96~255~255~255~0~1
+Load~Text~At first it was an epidemic.~0~144~255~255~255~0~2
+Load~Text~Now, it's a new world.~0~192~255~255~255~0~3
+Load~Text~Although I survived, my life did not.~0~240~255~255~255~0~4
+Load~Text~My daughter is barely alive.~0~288~255~255~255~0~5
+Load~Text~The power generator has nearly run out.~0~336~255~255~255~0~6
+Load~Text~I must find an answer. I must save us.~0~384~255~255~255~0~7
+Load~Text~~0~432~255~255~255~0~8
+Text~0~Center
+Text~1~Center
+Text~2~Center
+Text~3~Center
+Text~4~Center
+Text~5~Center
+Text~6~Center
+Text~7~Center
+Text~8~Center
+Wait~300
+Text~0~Fade In
+Wait~3000
+Text~1~Fade In
+Wait~5000
+Text~2~Fade In
+Wait~3000
+Text~3~Fade In
+Wait~5000
+Text~4~Fade In
+Wait~3000
+Text~5~Fade In
+Wait~3000
+Text~6~Fade In
+Wait~5000
+Text~7~Fade In
+Wait~2000
+Text~8~Fade In
+Wait~30000
+Swap State~4

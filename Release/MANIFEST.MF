@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.7
+Created-By: 1.8.0_131-b11 (Oracle Corporation)
+Class-Path: lib/jinput.jar lib/jogg-0.0.7.jar lib/jorbis-0.0.15.jar li
+ b/natives-linux.jar lib/natives-mac.jar lib/natives-win32.jar lib/sli
+ ck.jar lib/lwjgl.jar
+X-COMMENT: Main-Class will be added automatically by build
+Main-Class: MegaEngine.main
+

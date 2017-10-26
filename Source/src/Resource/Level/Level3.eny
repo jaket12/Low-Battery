@@ -1,0 +1,7 @@
+//Level 3
+//Door to level 2
+Object~10~0~None~None~320~352~True~False~0~0~0~NoText
+//Door Passcode
+Object~14~0~None~None~352~224~True~False~0~0~0~NoText
+//Zombie Spawner
+Object~6~0~None~None~288~192~False~False~0~0~0~NoText

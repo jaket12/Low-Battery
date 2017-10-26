@@ -1,0 +1,25 @@
+//(LocationX)~(LocationY)~(Red)~(Green)~(Blue)~(Alpha)~(TextID)
+Music~Loop~1
+Load~Text~Low Battery~0~16~0~0~255~0~0
+Load~Text~Ludum Dare 39~0~64~0~0~255~0~1
+Load~Text~Running Out Of Power~0~112~0~0~255~0~2
+Load~Text~Created by:~0~160~0~0~255~0~3
+Load~Text~Jake Turner~0~208~0~0~255~0~4
+Load~Text~Troy Grant @ThatDollarDude~0~256~0~0~255~0~5
+Load~Text~Jacob Odden @Jacob_Odden~0~304~0~0~255~0~6
+Text~0~Center
+Text~1~Center
+Text~2~Center
+Text~3~Center
+Text~4~Center
+Text~5~Center
+Text~6~Center
+Text~0~Appear
+Text~1~Appear
+Text~2~Appear
+Text~3~Appear
+Text~4~Appear
+Text~5~Appear
+Text~6~Appear
+Wait~5000
+Swap State~2
